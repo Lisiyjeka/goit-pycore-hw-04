@@ -1,0 +1,14 @@
+gitignore
+# Віртуальні оточення
+venv/
+env/
+.venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Інше
+.DS_Store
