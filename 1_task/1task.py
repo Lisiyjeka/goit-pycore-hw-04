@@ -37,5 +37,5 @@ def total_salary(path):
 
 # Виклик функції для тестування
 if __name__ == "__main__":
-    total, average = total_salary("salary_file.txt")
+    total, average = total_salary("1_task/salary_file.txt")
     print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")
